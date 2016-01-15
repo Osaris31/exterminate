@@ -1,7 +1,7 @@
 # Exterminate
 Exterminate! a game created for [libGDX Jam 2015](http://itch.io/jam/libgdxjam).<br>
 
-![Exterminate Logo](http://www.osaris.net/exterminate.png)
+![Exterminate Logo](http://www.osaris.net/banner.jpg)
 
 **Find Life.**<br>
 **Kill Life.**<br>
